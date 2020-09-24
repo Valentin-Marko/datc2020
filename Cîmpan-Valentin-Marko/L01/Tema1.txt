@@ -1,0 +1,3 @@
+	O aplicatie cloud de tipul software-as-a-service pe care am folosit-o este Google Drive.
+Cu ajutorul acestei aplicatii se poate stoca orice fisier si poate fi accesat oricand, oriunde de pe
+ desktop si dispozitive mobile.
